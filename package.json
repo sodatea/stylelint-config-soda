@@ -1,0 +1,11 @@
+{
+  "name": "stylelint-config-soda",
+  "version": "1.0.0",
+  "description": "Stylelint sharable config for my personal projects' linting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haoqun Jiang <sodazju+npm@gmail.com>",
+  "license": "ISC"
+}
